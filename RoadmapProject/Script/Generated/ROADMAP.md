@@ -70,7 +70,7 @@ Tapping on a link will take you to relevant materials.
                 - [x] [`Notifications vs Delegation vs Observing`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
                 - [ ] [Collections](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Collections/RESOURCES.md)
                 - [x] [`Networking`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Networking/RESOURCES.md)
-                - [ ] [`Serialization`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/RESOURCES.md)
+                - [x] [`Serialization`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/RESOURCES.md)
                     - [ ] [NSCoding](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/NSCoding/RESOURCES.md)
                     - [ ] [`Codable`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Codable/RESOURCES.md)
                     - [x] [`JSON`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/JSON/RESOURCES.md)
