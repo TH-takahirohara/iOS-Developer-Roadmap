@@ -120,7 +120,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Bridge
                     - [ ] Composite
                     - [ ] Decorator
-                    - [ ] Facade
+                    - [x] Facade
                     - [ ] Flyweight
                     - [ ] Proxy
                 - [ ] `Behavioural`
