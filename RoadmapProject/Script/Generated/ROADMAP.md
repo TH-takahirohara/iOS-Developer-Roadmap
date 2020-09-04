@@ -132,7 +132,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Memento
                     - [ ] Observer
                     - [ ] State
-                    - [ ] Strategy
+                    - [x] Strategy
                     - [ ] Visitor
                 - [ ] Concurrency
                     - [ ] Anti-pattern
