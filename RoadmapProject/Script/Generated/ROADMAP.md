@@ -109,7 +109,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] [Coordinators](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
                 - [ ] `Creational`
                     - [ ] Factory
-                    - [ ] Abstract Factory
+                    - [x] Abstract Factory
                     - [ ] Builder
                     - [ ] Factory Method
                     - [ ] Object Pool
