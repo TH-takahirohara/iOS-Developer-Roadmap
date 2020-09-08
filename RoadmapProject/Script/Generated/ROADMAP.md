@@ -130,7 +130,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Iterator
                     - [ ] Mediator
                     - [ ] Memento
-                    - [ ] Observer
+                    - [x] Observer
                     - [ ] State
                     - [x] Strategy
                     - [ ] Visitor
