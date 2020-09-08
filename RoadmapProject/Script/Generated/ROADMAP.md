@@ -119,7 +119,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Adapter
                     - [x] Bridge
                     - [ ] Composite
-                    - [ ] Decorator
+                    - [x] Decorator
                     - [x] Facade
                     - [ ] Flyweight
                     - [ ] Proxy
