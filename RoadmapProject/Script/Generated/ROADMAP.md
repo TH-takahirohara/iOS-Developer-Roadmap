@@ -25,7 +25,7 @@ Tapping on a link will take you to relevant materials.
                 - [x] [`Structs`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Structs/RESOURCES.md)
                 - [x] [`Enums`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Enums/RESOURCES.md)
                 - [ ] [Runtime](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/RESOURCES.md)
-                    - [ ] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/Method_dispatch/RESOURCES.md)
+                    - [x] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/Method_dispatch/RESOURCES.md)
         - [ ] [`Memory management`](Resources/iOS_Developer/Practical_knowledge/Memory_management/RESOURCES.md)
             - [ ] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
             - [x] [`Value vs Reference type`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Value_vs_Reference_type/RESOURCES.md)
