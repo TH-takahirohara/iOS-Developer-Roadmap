@@ -97,7 +97,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Proxy
                     - [ ] Receptionist
                     - [ ] Singleton
-                    - [ ] Template Method
+                    - [x] Template Method
                     - [ ] MVC
                 - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
                     - [ ] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
