@@ -111,7 +111,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Factory
                     - [x] Abstract Factory
                     - [ ] Builder
-                    - [ ] Factory Method
+                    - [x] Factory Method
                     - [x] Object Pool
                     - [ ] Prototype
                     - [x] [Singleton](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
