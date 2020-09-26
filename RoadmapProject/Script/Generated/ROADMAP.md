@@ -167,7 +167,7 @@ Tapping on a link will take you to relevant materials.
         - [ ] Performance optimization
             - [ ] Increase FPS
             - [ ] Decrease memory footprint
-        - [ ] Code signing
+        - [x] Code signing
         - [ ] Tools
             - [ ] IDE
                 - [ ] Xcode
