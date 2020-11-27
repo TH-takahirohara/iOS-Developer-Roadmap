@@ -163,7 +163,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] Snapshot Tests
             - [ ] Functional test
             - [ ] [TDD](Resources/iOS_Developer/Practical_knowledge/Testing/TDD/RESOURCES.md)
-            - [ ] [BDD](Resources/iOS_Developer/Practical_knowledge/Testing/BDD/RESOURCES.md)
+            - [x] [BDD](Resources/iOS_Developer/Practical_knowledge/Testing/BDD/RESOURCES.md)
         - [ ] Performance optimization
             - [ ] Increase FPS
             - [ ] Decrease memory footprint
